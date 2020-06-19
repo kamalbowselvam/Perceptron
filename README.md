@@ -2,4 +2,4 @@
 Implementation of Rosenblatt's perceptron
 
 
-![Rosenblatt Perceptron](demo.gif) / ![](demo.gif)
+![Rosenblatt Perceptron](demo.gif)
